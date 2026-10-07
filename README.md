@@ -1,6 +1,6 @@
 <div align="center">
 
-![Nadya Hristuk — Frontend Developer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:EC4899,100:22D3EE&height=230&section=header&text=Nadya%20Hristuk&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20REACT%20%E2%80%A2%20JAVASCRIPT&descSize=17&descAlignY=60)
+![Nadya Hristuk — Frontend Developer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:EC4899,100:22D3EE&height=230&section=header&text=Nadya%20Hristuk&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20REACT%20%E2%80%A2%20JAVASCRIPT&descSize=17&descAlignY=40)
 
 [![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=F472B6&center=true&vCenter=true&width=760&height=55&lines=React+interfaces+for+real-world+products;Analytics+dashboards+%26+payment+applications;Turning+legacy+code+into+maintainable+UI;Frontend+developer+%26+long-time+mentor)](https://www.linkedin.com/in/nadya-hristuk/)
 
